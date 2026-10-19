@@ -21,4 +21,4 @@ Draws the Asia, London and New York session ranges on any chart, extends the Asi
 
 ## Custom work
 
-Need an indicator, strategy or alert built to your exact rules? Message me on Fiverr: [your Fiverr link]
+Need an indicator, strategy or alert built to your exact rules? Message me on Fiverr:
