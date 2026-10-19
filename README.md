@@ -2,8 +2,7 @@
 
 Draws the Asia, London and New York session ranges on any chart, extends the Asia high and low, and alerts when price breaks them after Asia closes.
 
-<!-- Drag SessionRanges-demo.mp4 onto this line while editing on GitHub -->
-
+https://github.com/user-attachments/assets/17275c67-e521-49c6-a3bd-e4a7f8f68a75
 ## Features
 
 - Session boxes with the live range size for Asia, London and New York
@@ -22,7 +21,3 @@ Draws the Asia, London and New York session ranges on any chart, extends the Asi
 ## Custom work
 
 Need an indicator, strategy or alert built to your exact rules? Message me on Fiverr:
-
-
-https://github.com/user-attachments/assets/17275c67-e521-49c6-a3bd-e4a7f8f68a75
-
