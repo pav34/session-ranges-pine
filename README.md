@@ -20,4 +20,4 @@ https://github.com/user-attachments/assets/17275c67-e521-49c6-a3bd-e4a7f8f68a75
 
 ## Custom work
 
-Need an indicator, strategy or alert built to your exact rules? Message me on Fiverr: http://www.fiverr.com/s/X00gD2e
+Need an indicator, strategy or alert built to your exact rules? Message me on Fiverr:
